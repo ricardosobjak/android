@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentsSamples</string>
+    <string name="explicita1">Intent Explícita 1</string>
+    <string name="explicita2">Intent Explícita 2</string>
+    <string name="explicita3">Intent Explícita 3</string>
+
+    <string name="atvtelefone">Implícita: Fazer uma ligação</string>
+    <string name="atvsite">Implícita: Acessar um site</string>
+    <string name="atvemail">Implícita: Enviar um e-mail</string>
+
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+</resources>
