@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layout-Samples</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="relative_Layout">Relative Layout</string>
+    <string name="linear_layout_horizontal">Linear Layout Horizontal</string>
+    <string name="linear_layout_vertical">Linear Layout Vertical</string>
+    <string name="grid_layout">Grid Layout</string>
+    <string name="frame_layout">Frame Layout</string>
+</resources>
