@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences-Samples</string>
+    <string name="title_activity_main">Início</string>
+    <string name="type_your_name">Digite seu nome</string>
+    <string name="save">Salvar</string>
+    <string name="title_activity_add_nome">Adicionar Nome</string>
+</resources>
