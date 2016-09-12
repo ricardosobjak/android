@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android-Broadcast</string>
+    <string name="descricao">Projeto com a utilização de Broadcasts do Android!</string>
+</resources>

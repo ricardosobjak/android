@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android.Activity</string>
+    <string name="hello_world">Bienvenido!</string>
+    <string name="menu_settings">Opciones</string>
+    <string name="mensagem">Hola, mi nombre es Android! Usted puede usar! :)</string>
+    <string name="bt_principal">Haga clic aquí</string>
+
+</resources>
