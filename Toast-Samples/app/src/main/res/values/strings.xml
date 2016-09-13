@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Exemplo de Toasts!</string>
+    <string name="app_name">Toast-Samples</string>
+    <string name="botao1">Mostrar o Toast Simples</string>
+    <string name="botao2">Mostrar o Toast Customizado</string>
+</resources>
