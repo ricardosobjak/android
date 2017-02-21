@@ -68,15 +68,7 @@ public class Camera1Activity extends AppCompatActivity {
 	 * @param v
 	 */
 	public void takePicture(View v) {
-		if (ContextCompat.checkSelfPermission(this,
-				Manifest.permission.CAMERA)
-				!= PackageManager.PERMISSION_GRANTED) {
-
-			ActivityCompat.requestPermissions(this,
-					new String[]{Manifest.permission.CAMERA},
-					REQUEST_PERMISSION_CAMERA);
-
-		} else {
+		if (Permission.check(this, Manifest.permission.CAMERA, REQUEST_PERMISSION_CAMERA)) {
 			// Abre a aplicação de câmera
 			openCamera();
 		}
