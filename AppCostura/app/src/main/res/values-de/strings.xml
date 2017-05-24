@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Costura Fácil</string>
+    <string name="title_activity_cadastro_form">CadastroFormActivity</string>
+
+    <string name="nome">Aliscut</string>
+    <string name="cpf">Alisbrow</string>
+    <string name="nascimento">Xucrute</string>
+    <string name="celular">Beer</string>
+    <string name="telFixo">Chopp</string>
+    <string name="email">Cerveja</string>
+    <string name="logradouro">Chopp</string>
+    <string name="numero">Numero</string>
+    <string name="bairro">Bairro</string>
+    <string name="cep">CEP</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="senha">Senha</string>
+</resources>

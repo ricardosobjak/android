@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_novo_cadastro"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Novo Cadastro" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@android:drawable/ic_secure"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_aniversariantes"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Aniversariantes" />
+    </group>
+
+    <item android:title="Minhas coisas">
+        <menu>
+            <item
+                android:id="@+id/nav_dados_cadastrais"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Dados cadastrais" />
+            <item
+                android:id="@+id/nav_comentarios"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Comentários" />
+        </menu>
+    </item>
+</menu>
